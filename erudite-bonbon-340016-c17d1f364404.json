@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "erudite-bonbon-340016",
+  "private_key_id": "c17d1f3644044de08f64fdb001aea7f183b00a58",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD2XMhG/0YBFA2U\n4Lv5WCDEas/bJtMgJC/3Zf6Yhd0nWhzyIiBRJRi7aggcE8T1grfmxiGAgNv37VX7\nJDeJ+ZFuc6rs+pY9zeymZ4k4CUQpdDpzCp+TUJtHQNZbQE81mXQPpfJAnIUkXY6k\nx8MzCtzOstiOsivlt3FUfoiXbaIOd7sP+clZtwWUGj6CsFSOXUjD4C/gAqdWSDrc\n59FVtgbzFERdV6OAbDmlC3tiRTuL+J2ZmB+bM6N5X9Wsfvt6Foa6hn8Bl4Y4omS3\nNBqS8z9s6KceAt8cQaY8xo2PgeiN2jVyJPpO2aoT0eBTnZ6cINza4D4mUtYCC7x3\nzuRF0lF/AgMBAAECggEAaYwPm+cy6TRbqzxrHCTnCO+P9J6aFiuaxz3RySuUt47S\nVuRK/yjLA0QmjEzl9Z8Wxc59vO24D+yFCS8XgkvDRFRW1ud25ayrJhG2hqTlqHLs\ntavH+RewJuM+0uJm7Ro80JVyh77nBdD1U2BoHx6Ywg96Www3ZVflvGLnhyTHqLVI\n5Yr/vnNuzYAZU7xvcQJEp9yoyqttgna75WhquP31ydDoKQen35bixjWP9G6Pud9w\nRRypKsNoOeGRdiPqxhVOkKcCz5isM0cJdLn4BZgWDYwf9NjIZRDesNRaZbxhcQ24\n2dVFgAkEO3GuAM11ZPaGPXmiJWhNjRZZ0uQ0wHXn4QKBgQD8Hhi+R6RFDop6M/rd\nWSgJpLEKUJQePuPARMIR+WwnJJd5do+Vkt5l8wAPj6BJPmOiXtHXnDJf3Akg4LiK\ndDY8dhoWfQ8UifpKWJ9H5jpVYkesWr45Z98jXM56rq6eZeg3eQYIRSKEUjw1Iu05\nTy8iUGhuIeA2XCEECxymD4uZ3wKBgQD6J/9m/YeWZPU3Mg8TmlfiBnDNInS6s4sP\ntjNp42DNcPGGlETHn9HCTqxT1HHlP0ng0xJD01OIUoajladxPw+lSx133uzbuHu4\nih+Ll9i3E83Y6fKN+QwVPPySO3q0r9neI3GaT1nhgtsw6M0v9pQNaTQaoGHf+6jt\nsAG/Uzt8YQKBgQDL4m7yGi+vJPY5oyWhsYMeYVBG3ikaWJOIHlKvhHzBHudcc9Pk\nCvTNj3kiHG1sLgcW/QVIDunx+ZhsPS8f0KE3ve6U9yel3XtKema9F2NfP25k5LFm\n7ShXiar1LaTLNfBYRAfr0jT6uyIzen5LVUzxvALn5X9TlqeghHfzlyi3EwKBgQDZ\n2k9wb8bO0OlEwlGi7r0uWBGQdDtYBNhMPI6V3rEE+SE95I3pk2NnZoBpGRB/Zxh9\ntROpAbczdztN5xzFYPfNKZdmNzvrNcR5N8C1Hu5aseKIz2SvA37kWBJVf3sjNCn2\nbMOYcRaDcCRXecaHyKOy8jWwIpBaMZ4yMR+0cVXSwQKBgQCZcmSZQSYStZhrX9d/\n0154sIQIKIBGvHecWGIaAwMbCT/L5nseSUUixVEmU7Qr1KVu4pGPtELIW/C3c/mC\nSPTy9/pbfq7P/lDhjN0bQF+wtv7lDHrFK9ECzVspsvGPMCHLFobMOkjDQrRk6joz\no8GehIU5jUh9Fc95pY0wcdtxmQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ganreg@erudite-bonbon-340016.iam.gserviceaccount.com",
+  "client_id": "106743209627153948303",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ganreg%40erudite-bonbon-340016.iam.gserviceaccount.com"
+}
