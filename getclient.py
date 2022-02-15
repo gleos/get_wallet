@@ -2,7 +2,6 @@ from curses import raw
 from hmac import trans_36
 import solana
 from solana.rpc.api import Client
-import pygsheets
 import gspread
 import pandas as pd
 from oauth2client.service_account import ServiceAccountCredentials
